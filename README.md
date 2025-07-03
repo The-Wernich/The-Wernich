@@ -45,7 +45,7 @@ I'm a passionate Front-End Developer focused on building interactive, responsive
 
 ## 📫 Let's Connect
 
-- 📧 Email: [Valentino Wernich](valentino.wernich@outlook.com)
+- 📧 Email: [Valentino Wernich](mailto:valentino.wernich@outlook.com)
 - 🌐 LinkedIn: [LinkedIn - Connect](https://linkedin.com/in/valentino-wernich)
 
 ---
