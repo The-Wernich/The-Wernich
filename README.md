@@ -74,11 +74,11 @@
 
 <p align="center">
   <a href="mailto:valentino.wernich@outlook.com" target="_blank" style="margin-right: 1000px;">
-    <img src="outlook-2019-icon.png" width="110" alt="Email"/>
+    <img src="outlook-icon-144.png" width="110" alt="Email"/>
   </a>
   
   <a href="https://linkedin.com/in/valentino-wernich" target="_blank" style="margin-left: 1000px;">
-    <img src="icons8-linkedin-144.png" width="120" alt="LinkedIn"/>
+    <img src="linkedin-icon-144.png" width="120" alt="LinkedIn"/>
   </a>
 </p>
 
