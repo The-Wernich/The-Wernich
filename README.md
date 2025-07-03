@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Valentino Wernich
-
-I'm an Aspiring Front-End Developer focused on building interactive, responsive, and user-centered web applications.
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%" />
+</p>
 
 ---
 
