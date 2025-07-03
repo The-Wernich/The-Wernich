@@ -40,7 +40,7 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="display: inline-block; margin: 0 15px; text-align: center;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="display: inline-block; margin: 0 200px; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/><br>
     <sub>HTML5</sub>
   </a>
