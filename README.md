@@ -74,11 +74,11 @@
 
 <p align="center">
   <a href="mailto:valentino.wernich@outlook.com" target="_blank" style="margin-right: 50px;">
-    <img src="https://img.icons8.com/color/100/000000/email--v1.png" width="50" alt="Email"/>
+    <img src="https://img.icons8.com/color/100/000000/email--v1.png" width="70" alt="Email"/>
   </a>
   
-  <a href="https://linkedin.com/in/valentino-wernich" target="_blank" style="margin-left: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/valentino-wernich" target="_blank" style="margin-left: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70" alt="LinkedIn"/>
   </a>
 </p>
 
