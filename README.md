@@ -106,7 +106,7 @@
 ---
 
 ## 📫 Let's Connect
-<table>
+<table align="center">
   <tr>
     <td>
       
