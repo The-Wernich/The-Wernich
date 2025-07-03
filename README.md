@@ -73,12 +73,16 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:valentino.wernich@outlook.com" target="_blank" style="text-decoration: none; margin-right: 1000px;">
-    <img src="outlook-icon-144.png" width="120" alt="Email"/>
+  <a href="mailto:valentino.wernich@outlook.com" target="_blank">
+    <span>
+      <img src="outlook-icon-144.png" width="120" alt="Email"/>
+    </span>
   </a>
-
-  <a href="https://linkedin.com/in/valentino-wernich" target="_blank" style="text-decoration: none; margin-left: 1000px;">
-    <img src="linkedin-icon-144.png" width="120" alt="LinkedIn"/>
+  
+  <a href="https://linkedin.com/in/valentino-wernich" target="_blank">
+    <span>
+      <img src="linkedin-icon-144.png" width="120" alt="LinkedIn"/>
+    </span>
   </a>
 </p>
 
