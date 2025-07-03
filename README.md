@@ -30,7 +30,7 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
 
 ## 💻 Languages & Tools
 
-<p>
+<p align="center">
   <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-wernich&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
@@ -39,7 +39,7 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
     <br><sub>HTML5</sub>
