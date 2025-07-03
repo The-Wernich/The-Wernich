@@ -73,25 +73,25 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="display: inline-flex; text-align: center; margin: 10px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" alt="HTML5"/><br>
       <sub>HTML5</sub>
     </a>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="display: inline-flex; text-align: center; margin: 10px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" alt="CSS3"/><br>
       <sub>CSS3</sub>
     </a>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="display: inline-flex; text-align: center; margin: 10px;">
     <a href="https://github.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70" alt="GitHub"/><br>
       <sub>GitHub</sub>
     </a>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  <div style="display: inline-flex; text-align: center; margin: 10px;">
     <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="70" alt="VS Code"/><br>
       <sub>VS Code</sub>
