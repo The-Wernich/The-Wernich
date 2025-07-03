@@ -41,27 +41,27 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
 
 <table align="center">
   <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" alt="HTML5"/><br>
         <sub>HTML5</sub>
       </a>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" alt="CSS3"/><br>
         <sub>CSS3</sub>
       </a>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <a href="https://github.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" alt="GitHub"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70" alt="GitHub"/><br>
         <sub>GitHub</sub>
       </a>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 15px;">
       <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="70" alt="VS Code"/><br>
         <sub>VS Code</sub>
       </a>
     </td>
