@@ -74,12 +74,11 @@
 
 <p align="center">
   <a href="mailto:valentino.wernich@outlook.com" target="_blank" style="margin-right: 1000px;">
-    <img src="![image](https://github.com/user-attachments/assets/d55a6a93-0214-485b-bb8c-e3b07373ef2b
-" width="110" alt="Email"/>
+    <img src="outlook-2019-icon.png" width="110" alt="Email"/>
   </a>
   
   <a href="https://linkedin.com/in/valentino-wernich" target="_blank" style="margin-left: 1000px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" alt="LinkedIn"/>
+    <img src="linkedin-icon.png" width="100" alt="LinkedIn"/>
   </a>
 </p>
 
