@@ -53,9 +53,9 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
         <sub>CSS3</sub>
       </a>
     </td>
-    <td align="center" style="padding: 23px;">
+    <td align="center" style="padding: 20px;">
       <a href="https://github.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70" alt="GitHub"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="80" alt="GitHub"/><br>
         <sub>GitHub</sub>
       </a>
     </td>
