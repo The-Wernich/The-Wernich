@@ -14,7 +14,6 @@ I'm a passionate Front-End Developer focused on building interactive, responsive
 
 - 🟡 JavaScript – Intermediate: async/await, fetch API, modular code
 - 🟡 React – Learning fundamentals: JSX, props, useState/useEffect
-- 🟢 HTML/CSS – Solid foundation, improving layout & animations
 - 🟡 Git – Branching, merges, pull requests
 - 🔵 Accessibility – Learning semantic HTML and screen-reader basics
 
@@ -24,6 +23,7 @@ I'm a passionate Front-End Developer focused on building interactive, responsive
 
 - Build 5 fully responsive web apps
 - Master React fundamentals
+- Master JavaScript fundamentals
 - Learn basic back-end with Node.js or Firebase
 
 ---
