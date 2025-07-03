@@ -111,7 +111,6 @@
     <td>
       
 [![Email](outlook-icon-144.png)](mailto:valentino.wernich@outlook.com)
-
     </td>
 &nbsp;&nbsp;
     <td>
