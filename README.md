@@ -46,7 +46,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding: 20px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="100" alt="HTML5"/><br>
       </a>
     </td>
