@@ -30,10 +30,14 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
 
 ## 💻 Languages & Tools
 
-<p align="center">
+<div align="center">
   <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-wernich&layout=compact&theme=tokyonight" alt="Top Languages" width="400" height="400" padding="0">
-</p>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-wernich&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+    width="400" 
+    height="400"
+  >
+</div>
 
 ---
 
