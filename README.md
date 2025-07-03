@@ -52,17 +52,17 @@
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="120" alt="CSS3"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="115" alt="CSS3"/><br>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://github.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="130" alt="GitHub"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="125" alt="GitHub"/><br>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="120" alt="VS Code"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="115" alt="VS Code"/><br>
       </a>
     </td>
   </tr>
