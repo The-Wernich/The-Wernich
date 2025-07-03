@@ -73,7 +73,7 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:valentino.wernich@outlook.com" target="_blank" style="margin-right: 20px;">
+  <a href="mailto:valentino.wernich@outlook.com" target="_blank" style="margin-right: 50px;">
     <img src="https://img.icons8.com/color/100/000000/email--v1.png" width="50" alt="Email"/>
   </a>
   
