@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Valentino Wernich
 
-I'm a passionate Front-End Developer focused on building interactive, responsive, and user-centered web applications.
+I'm an Aspiring Front-End Developer focused on building interactive, responsive, and user-centered web applications.
 
 ---
 
