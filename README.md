@@ -78,7 +78,7 @@
   </a>
   
   <a href="https://linkedin.com/in/valentino-wernich" target="_blank" style="margin-left: 1000px;">
-    <img src="linkedin-icon.png" width="100" alt="LinkedIn"/>
+    <img src="icons8-linkedin-144.png" width="100" alt="LinkedIn"/>
   </a>
 </p>
 
