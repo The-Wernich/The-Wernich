@@ -106,10 +106,16 @@
 ---
 
 ## 📫 Let's Connect
-
+<table>
+  <tr>
+    <td>
 [![Email](outlook-icon-144.png)](mailto:valentino.wernich@outlook.com)
+    </td>
 &nbsp;&nbsp;
+    <td>
 [![LinkedIn](linkedin-icon-144.png)](https://linkedin.com/in/valentino-wernich)
-
+    </td>
+  </tr>
+</table>
 
 > 🗓️ _I’m actively building and learning — check back often to see new projects and updates!_
