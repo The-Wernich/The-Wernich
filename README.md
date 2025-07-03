@@ -32,7 +32,7 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
 
 <p align="center">
   <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-wernich&layout=compact&theme=tokyonight" alt="Top Languages" width="50px" height="50px">
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-wernich&layout=compact&theme=tokyonight" alt="Top Languages" width="500" height="500">
 </p>
 
 ---
