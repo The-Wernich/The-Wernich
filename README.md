@@ -88,4 +88,19 @@
 
 ---
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="mailto:valentino.wernich@outlook.com" target="_blank">
+        <img src="outlook-icon-144.png" width="120" alt="Email"/>/><br>
+      </a>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <a href="https://linkedin.com/in/valentino-wernich" target="_blank">
+        <img src="linkedin-icon-144.png" width="120" alt="LinkedIn"/><br>
+      </a>
+    </td>
+  </tr>
+</table>
+
 > 🗓️ _I’m actively building and learning — check back often to see new projects and updates!_
