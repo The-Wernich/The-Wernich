@@ -40,26 +40,24 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="display: inline-block; margin: 0 15px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/><br>
+    <sub>HTML5</sub>
+  </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-    <br><sub>HTML5</sub>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="display: inline-block; margin: 0 15px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/><br>
+    <sub>CSS3</sub>
+  </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-    <br><sub>CSS3</sub>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com" target="_blank" style="display: inline-block; margin: 0 15px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" alt="GitHub"/><br>
+    <sub>GitHub</sub>
+  </a>
 
-  <a href="https://github.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" alt="GitHub"/>
-    <br><sub>GitHub</sub>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
-    <br><sub>VS Code</sub>
+  <a href="https://code.visualstudio.com/" target="_blank" style="display: inline-block; margin: 0 15px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/><br>
+    <sub>VS Code</sub>
   </a>
 </p>
 
