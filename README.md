@@ -39,7 +39,7 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
 
 ## 🛠️ Tech Stack & Tools
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center" style="padding: 15px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
