@@ -74,7 +74,7 @@
 
 <p align="center">
   <a href="mailto:valentino.wernich@outlook.com" target="_blank" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/ios-filled/100/000000/new-post.png" width="50" alt="Email"/>
+    <img src="https://img.icons8.com/color/100/000000/email--v1.png" width="50" alt="Email"/>
   </a>
   
   <a href="https://linkedin.com/in/valentino-wernich" target="_blank" style="margin-left: 20px;">
