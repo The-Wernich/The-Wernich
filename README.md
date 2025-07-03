@@ -72,8 +72,16 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: [Valentino Wernich](mailto:valentino.wernich@outlook.com)
-- 🌐 LinkedIn: [LinkedIn - Connect](https://linkedin.com/in/valentino-wernich)
+<p align="center">
+  <a href="mailto:valentino.wernich@outlook.com" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/ios-filled/100/000000/new-post.png" width="50" alt="Email"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/valentino-wernich" target="_blank" style="margin-left: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
+  </a>
+</p>
+
 
 ---
 
