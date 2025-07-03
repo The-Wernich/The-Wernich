@@ -34,6 +34,16 @@ I'm a passionate Front-End Developer focused on building interactive, responsive
 
 ---
 
+## 💻 Skills Overview
+
+<p align="center">
+  <img src="./assets/js-circle.png" width="100" alt="JavaScript 60%">
+  <img src="./assets/html-circle.png" width="100" alt="HTML 25%">
+  <img src="./assets/css-circle.png" width="100" alt="CSS 15%">
+</p>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
