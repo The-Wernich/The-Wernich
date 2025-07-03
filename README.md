@@ -30,9 +30,9 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
 
 ## 💻 Languages & Tools
 
-<p align="center" width="50">
+<p align="center">
   <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-wernich&layout=compact&theme=tokyonight" alt="Top Languages">
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-wernich&layout=compact&theme=tokyonight" alt="Top Languages" width="50" height="50">
 </p>
 
 ---
@@ -44,25 +44,21 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
     <td align="center" style="padding: 20px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" alt="HTML5"/><br>
-        <sub>HTML5</sub>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" alt="CSS3"/><br>
-        <sub>CSS3</sub>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://github.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="80" alt="GitHub"/><br>
-        <sub>GitHub</sub>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="70" alt="VS Code"/><br>
-        <sub>VS Code</sub>
       </a>
     </td>
   </tr>
