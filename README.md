@@ -30,8 +30,6 @@ I'm an Aspiring Front-End Developer focused on building interactive, responsive,
 
 ## 💻 Languages & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-wernich&layout=compact&theme=tokyonight)
-
 <p align="center">
   <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-wernich&layout=compact&theme=tokyonight" alt="Top Languages">
