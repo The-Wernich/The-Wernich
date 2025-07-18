@@ -47,7 +47,7 @@
   <tr>
     <td align="center" style="padding: 20px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-        <img src="assets/html5.png" width="100" alt="HTML5"/><br>
+        <img src="assets/html5-144.png" width="100" alt="HTML5"/><br>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
