@@ -47,22 +47,22 @@
   <tr>
     <td align="center" style="padding: 20px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-        <img src="assets/html5-144.png" width="100" alt="HTML5"/><br>
+        <img src="assets/html5-144.png" width="150" alt="HTML5"/><br>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="assets/css3.png" width="115" alt="CSS3"/><br>
+        <img src="assets/css3-144.png" width="150" alt="CSS3"/><br>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://github.com" target="_blank">
-        <img src="assets/github-blue.png" width="125" alt="GitHub"/><br>
+        <img src="assets/github-blue.png" width="140" alt="GitHub"/><br>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="assets/visual-studio-code-144.png" width="115" alt="VS Code"/><br>
+        <img src="assets/visual-studio-code-144.png" width="150" alt="VS Code"/><br>
       </a>
     </td>
   </tr>
