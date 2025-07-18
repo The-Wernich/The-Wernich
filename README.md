@@ -61,7 +61,7 @@
       </a>
     </td>
     <td align="center" style="padding: 20px;">
-      <a href="https://code.visualstudio.com/" target="_blank">
+      <a href="https://code.visualstudio.com/docs" target="_blank">
         <img src="assets/visual-studio-code-144.png" width="150" alt="VS Code"/><br>
       </a>
     </td>
