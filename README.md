@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-image.png" alt="Banner" style="width: 100%; height: 250px; object-fit: cover;" />
+  <img src="assets/banner-image.png" alt="Banner" style="width: 100%; height: 250px; object-fit: cover;" />
 </p>
 
 ---
@@ -76,11 +76,11 @@
   <tr>
     <td>
       
-[![Email](outlook-icon-144.png)](mailto:valentino.wernich@outlook.com)
+[![Email](assets/outlook-icon-144.png)](mailto:valentino.wernich@outlook.com)
     </td>
 &nbsp;&nbsp;
     <td>
-[![LinkedIn](linkedin-icon-144.png)](https://linkedin.com/in/valentino-wernich)
+[![LinkedIn](assets/linkedin-icon-144.png)](https://linkedin.com/in/valentino-wernich)
     </td>
   </tr>
 </table>
