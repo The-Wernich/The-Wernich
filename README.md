@@ -57,7 +57,7 @@
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://github.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="125" alt="GitHub"/><br>
+        <img src="assets/github-blue.png" width="125" alt="GitHub"/><br>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
