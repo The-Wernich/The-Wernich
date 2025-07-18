@@ -47,12 +47,12 @@
   <tr>
     <td align="center" style="padding: 20px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="100" alt="HTML5"/><br>
+        <img src="assets/html5.png" width="100" alt="HTML5"/><br>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="115" alt="CSS3"/><br>
+        <img src="#" width="115" alt="CSS3"/><br>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
