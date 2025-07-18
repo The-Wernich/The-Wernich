@@ -62,7 +62,7 @@
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="115" alt="VS Code"/><br>
+        <img src="assets/visual-studio-code-144.png" width="115" alt="VS Code"/><br>
       </a>
     </td>
   </tr>
