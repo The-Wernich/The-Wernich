@@ -52,7 +52,7 @@
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="#" width="115" alt="CSS3"/><br>
+        <img src="assets/css3.png" width="115" alt="CSS3"/><br>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
