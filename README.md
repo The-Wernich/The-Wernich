@@ -57,7 +57,7 @@
     </td>
     <td align="center" style="padding: 20px;">
       <a href="https://github.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="125" alt="GitHub"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-white.svg" width="125" alt="GitHub"/><br>
       </a>
     </td>
     <td align="center" style="padding: 20px;">
