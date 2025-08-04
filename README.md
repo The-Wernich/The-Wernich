@@ -28,6 +28,21 @@
 
 ---
 
+## 💼 Portfolio Projects
+- [portfolio-main-site](https://github.com/yourusername/portfolio-main-site)
+- [portfolio-resume](https://github.com/yourusername/portfolio-resume)
+
+## 🧪 Side Projects
+- [todo-app](https://github.com/yourusername/side-todo-app)
+- [markdown-blogger](https://github.com/yourusername/side-blog-generator)
+
+## 💖 Cute Sites for My Partner
+- [love-letter](https://github.com/yourusername/partner-love-letter-site)
+- [matching-game](https://github.com/yourusername/partner-matching-game)
+
+
+---
+
 ## 💻 Languages & Tools
 
 <div align="center">
