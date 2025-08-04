@@ -30,7 +30,7 @@
 
 ## 💼 Portfolio Projects
 - [portfolio-main-site](https://github.com/yourusername/portfolio-main-site)
-- [All-In-One-Calculator]([https://github.com/yourusername/portfolio-resume](https://github.com/The-Wernich/all-in-one-calculator))
+- [All-In-One-Calculator](https://github.com/The-Wernich/all-in-one-calculator)
 
 ## 🧪 Side Projects
 - [todo-app](https://github.com/yourusername/side-todo-app)
