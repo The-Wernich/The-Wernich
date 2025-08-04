@@ -34,7 +34,7 @@
 - [03. Steve Irwin Tribute.](https://github.com/The-Wernich/steve-irwin-tribute)
 - [04. All-In-One-Calculator.](https://github.com/The-Wernich/all-in-one-calculator)
 
-## 💼 Portfolio Projects Sites.
+## 🌐 Portfolio Projects Sites.
 - [01. Gaming Preference Survey.](https://the-wernich.github.io/gaming-survey/)
 - [02. CSS Flexbox & Grid.](https://the-wernich.github.io/css-flexbox-grid/)
 - [03. Steve Irwin Tribute.](https://the-wernich.github.io/steve-irwin-tribute/)
