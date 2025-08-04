@@ -31,6 +31,7 @@
 ## 💼 Portfolio Projects
 - [01. Gaming Preference Survey.](https://github.com/The-Wernich/gaming-survey)
 - [02. CSS Flexbox & Grid.](https://github.com/The-Wernich/css-flexbox-grid)
+- [03. Steve Irwin Tribute.](https://github.com/The-Wernich/steve-irwin-tribute)
 - [04. All-In-One-Calculator.](https://github.com/The-Wernich/all-in-one-calculator)
 
 ## 🧪 Side Projects
