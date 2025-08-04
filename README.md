@@ -4,13 +4,13 @@
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Portfolio.
 
 🔗 [Visit My Portfolio](https://the-wernich.github.io/my-portfolio/)
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning.
 
 - 🟡 JavaScript – Intermediate: async/await, fetch API, modular code
 - 🟡 React – Learning fundamentals: JSX, props, useState/useEffect
@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2025.
 
 - Build 5 fully responsive web apps
 - Master React fundamentals
@@ -28,24 +28,25 @@
 
 ---
 
-## 💼 Portfolio Projects Codes
+## 💼 Portfolio Projects Codes.
 - [01. Gaming Preference Survey.](https://github.com/The-Wernich/gaming-survey)
 - [02. CSS Flexbox & Grid.](https://github.com/The-Wernich/css-flexbox-grid)
 - [03. Steve Irwin Tribute.](https://github.com/The-Wernich/steve-irwin-tribute)
 - [04. All-In-One-Calculator.](https://github.com/The-Wernich/all-in-one-calculator)
 
-## 🧪 Side Projects
+## 💼 Portfolio Projects Sites.
+- [01. Gaming Preference Survey.](https://the-wernich.github.io/gaming-survey/)
+- [02. CSS Flexbox & Grid.](https://the-wernich.github.io/css-flexbox-grid/)
+- [03. Steve Irwin Tribute.](https://the-wernich.github.io/steve-irwin-tribute/)
+- [04. All-In-One-Calculator.](https://the-wernich.github.io/all-in-one-calculator/)
+
+## 🧪 Side Projects.
 - [todo-app](https://github.com/yourusername/side-todo-app)
 - [markdown-blogger](https://github.com/yourusername/side-blog-generator)
 
-## 💖 Cute Sites for My Partner
-- [love-letter](https://github.com/yourusername/partner-love-letter-site)
-- [matching-game](https://github.com/yourusername/partner-matching-game)
-
-
 ---
 
-## 💻 Languages & Tools
+## 💻 Languages & Tools.
 
 <div align="center">
   <img 
@@ -58,7 +59,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools.
 
 <table align="center">
   <tr>
@@ -87,7 +88,7 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect.
 
 <table align="center">
   <tr>
